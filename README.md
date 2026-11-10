@@ -15,4 +15,4 @@ Solutions for the section meetings, for review.
 
 ## Exam Review
 - [Exam 1 Review](Exam_Review/Exam_1_Review.pdf) · [Solutions](Exam_Review/Exam_1_Review_Solutions.pdf)
-- Exam 2 Review — solutions will be posted after Exam 2
+- [Exam 2 Review](Exam_Review/Exam_2_Review.pdf) · Solutions coming after Exam 2
