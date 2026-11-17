@@ -19,4 +19,4 @@ Solutions for the section meetings, for review.
 
 ## Exam Review
 - [Exam 1 Review](Exam_Review/Exam_1_Review.pdf) · [Solutions](Exam_Review/Exam_1_Review_Solutions.pdf)
-- [Exam 2 Review](Exam_Review/Exam_2_Review.pdf) · Solutions coming later
+- [Exam 2 Review](Exam_Review/Exam_2_Review.pdf) · [Solutions](Exam_Review/Exam_2_Review_Solutions.pdf)
