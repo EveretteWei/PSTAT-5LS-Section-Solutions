@@ -4,7 +4,7 @@ Solutions for the section meetings, for review.
 
 > [!IMPORTANT]
 > ### 📢 Thanksgiving Week: Section is ONLINE via Zoom
-> **Zoom link:** **https://ucsb.zoom.us/j/8724405074?omn=83599287660**
+> **Zoom link:** **https://ucsb.zoom.us/j/83599287660**
 
 ## Section Info
 - **Section:** 41780 · Tue/Thu 10:00 AM · PSY-E1805
