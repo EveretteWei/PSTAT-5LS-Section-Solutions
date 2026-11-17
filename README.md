@@ -14,8 +14,9 @@ Solutions for the section meetings, for review.
 ## Sections
 - [Section 3: Graphical Display and Numerical Summary](Sections/Section_3_Solutions.pdf) — Tue 10/13
 - [Section 6: Simulation-Based Inference in R (Lab 2)](Sections/Section_6_Solutions.pdf) — Thu 10/22
-- [Section 7: Exam 1 Review](Sections/Section_7_Solutions.pdf) — Tue 10/27
+- [Section 7: Exam 1 Section Review](Sections/Section_7_Solutions.pdf) — Tue 10/27
 - [Section 9: One Mean Confidence Interval](Sections/Section_9_Solutions.pdf) — Tue 11/3
+- [Section 12: Exam 2 Section Review](Sections/Section_12_Solutions.pdf) — Tue 11/17
 
 ## Exam Review
 - [Exam 1 Review](Exam_Review/Exam_1_Review.pdf) · [Solutions](Exam_Review/Exam_1_Review_Solutions.pdf)
